@@ -1,0 +1,1 @@
+Hello! You have meeting in {datetime.datetime.now()}, duration: 30 min, location: Saint-P
